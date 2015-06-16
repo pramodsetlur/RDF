@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<response>
+<extractors>
+<extractor>rdf-turtle</extractor>
+</extractors>
+<report>
+<message/>
+<error/>
+<issueReport>
+</issueReport>
+<validationReport>
+<ruleActivations>
+</ruleActivations>
+<issues>
+</issues>
+<errors>
+</errors>
+</validationReport>
+</report>
+<data>
+<![CDATA[
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:schema="http://schema.org/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://npgportraits.si.edu/emuseumnpg/code/emuseum.asp?style=text&amp;currentrecord=1&amp;page=search&amp;profile=CAP&amp;searchdesc=QuickSearch%20contains%20huntin...&amp;searchstring=QuickSearch/,/contains/,/hunting/,/false/,/false&amp;newvalues=1&amp;newaction=newpage&amp;newstyle=single&amp;newcurrentrecord=1">
+	<dcterms:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">"Hunting the Buffaloe"</dcterms:title>
+	<schema:image>http://npgportraits.si.edu/eMuseumNPG/media/previews/9900560B.jpg</schema:image>
+	<schema:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alfred M. Hoffy</schema:creator>
+	<schema:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1837</schema:dateCreated>
+	<rdf:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bound Object</rdf:type>
+	<dcterms:medium rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hand-colored lithograph on paper</dcterms:medium>
+	<dcterms:SizeOrDuration rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sheet</dcterms:SizeOrDuration>
+	<schema:Person rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</schema:Person>
+	<dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1999-12-31</dcterms:date>
+	<dcterms:rightHolder rdf:datatype="http://www.w3.org/2001/XMLSchema#string">National Portrait Gallery, Smithsonian Institution; gift of Betty A. and Lloyd G. Schermer</dcterms:rightHolder>
+</rdf:Description>
+
+</rdf:RDF>]]>
+</data>
+</response>

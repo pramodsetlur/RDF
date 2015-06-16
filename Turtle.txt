@@ -1,0 +1,15 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://npgportraits.si.edu/emuseumnpg/code/emuseum.asp?style=text&currentrecord=1&page=search&profile=CAP&searchdesc=QuickSearch%20contains%20huntin...&searchstring=QuickSearch/,/contains/,/hunting/,/false/,/false&newvalues=1&newaction=newpage&newstyle=single&newcurrentrecord=1>  
+	dcterms:title "\"Hunting the Buffaloe\""^^xsd:string;
+    schema:image "http://npgportraits.si.edu/eMuseumNPG/media/previews/9900560B.jpg";
+    schema:creator "Alfred M. Hoffy"^^xsd:string;
+    schema:dateCreated "1837"^^xsd:string;
+    rdf:type "Bound Object"^^xsd:string;
+    dcterms:medium "Hand-colored lithograph on paper"^^xsd:string;
+    dcterms:SizeOrDuration "Sheet"^^xsd:string;
+    schema:Person "Unknown"^^xsd:string;
+    dcterms:date "1999-12-31"^^xsd:date;
+    dcterms:rightHolder "National Portrait Gallery, Smithsonian Institution; gift of Betty A. and Lloyd G. Schermer"^^xsd:string; .

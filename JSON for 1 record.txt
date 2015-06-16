@@ -1,0 +1,10 @@
+"title":"\"Hunting the Buffaloe\"",
+"imageUrl":"http://npgportraits.si.edu/eMuseumNPG/media/previews/9900560B.jpg",
+"artist":"Alfred M. Hoffy",
+"dateOfWork":"1837",
+"classification":"Bound Object",
+"medium":"Hand-colored lithograph on paper",
+"dimensions":"Sheet",
+"owner":"Unknown",
+"aquisitionDate":"1999-12-31",
+"creditLine":"National Portrait Gallery, Smithsonian Institution; gift of Betty A. and Lloyd G. Schermer"
